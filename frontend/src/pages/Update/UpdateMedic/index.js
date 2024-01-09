@@ -52,15 +52,15 @@ export default function UpdateMedic() {
         <Forms>
           <Form schema={schema} onSubmit={handleSubmit}>
             <InputWrapper size="double">
-              <strong>Nome</strong>
+              <span>Nome</span><i>  *</i>
               <Input name="name" placeholder={doctor.name} />
             </InputWrapper>
             <InputWrapper>
-              <strong>Especialidade Médica</strong>
+              <span>Especialidade Médica</span><i>  *</i>
               <Input name="speciality" placeholder={doctor.speciality} />
             </InputWrapper>
             <InputWrapper>
-              <strong>Gênero</strong>
+              <span>Gênero</span><i>  *</i>
               <Select
                 name="gender"
                 placeholder={doctor.gender}
@@ -69,19 +69,19 @@ export default function UpdateMedic() {
               />
             </InputWrapper>
             <InputWrapper>
-              <strong>CRM</strong>
+              <span>CRM</span><i>  *</i>
               <Input name="crm" placeholder={doctor.crm} />
             </InputWrapper>
             <InputWrapper>
-              <strong>CPF</strong>
+              <span>CPF   </span><i>  *</i>
               <Input name="cpf" placeholder={doctor.cpf} />
             </InputWrapper>
             <InputWrapper size="double">
-              <strong>Endereço</strong>
+              <span>Endereço</span><i>  *</i>
               <Input name="adress" placeholder={doctor.adress} />
             </InputWrapper>
             <InputWrapper>
-              <button type="submit">Submit</button>
+              <button type="submit">Atualizar</button>
             </InputWrapper>
           </Form>
         </Forms>
