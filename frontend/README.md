@@ -68,3 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Screenshot
+
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/2e998fbf-aa49-484f-a35b-b9fd57a3fa69)
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/6d97a748-cca9-46b7-a06b-819351195289)
+
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/5e01bb5d-7bda-4a1e-af3e-3f6af23fd52d)
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/aac440cd-d8b4-4c16-a2a7-d117a3149960)
+
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/a13fcebc-7e82-4e8c-8ccb-a39e79f81e26)
+
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/875d8b26-1f20-4737-bb6e-da6dd187505e)
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/f1164f53-ea59-4835-8df0-3dccd7bae479)
+
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/1a823805-eabb-4a9d-b80f-3de16447ed9f)
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/2b6ba9c5-1a56-4707-8fb6-9f66869c993f)
+
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/b445caf5-8231-485e-958b-7e850f122d67)
+
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/05afa4ef-6bd7-4b7b-a16e-cec03db13ee2)
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/1433bae9-bbdf-4e4f-82dc-44f7628418f8)
+
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/ebd12b31-3ce4-4f9c-95ca-eb2c2cb55086)
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/0a0c88f8-4895-48ba-9a1e-aa353e28d399)
+
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/bb82e7e1-d3a7-435b-ad07-af2a7bad1771)
+![image](https://github.com/Davibarreto11/workMed/assets/102602408/de4ebddc-484f-4ab2-bbdc-754e650501b5)
+
